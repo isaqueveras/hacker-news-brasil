@@ -3,7 +3,9 @@ Um modelo de redesign do site hacker news.
 
 O sistema está precisando de alguém para implementar a lógica para indexar as noticias.
     
-O modelo do hacker news é basicamente assim: um usuário envia uma noticia e essas noticias são indexadas com a quantidade de pontos que ela vai tento, esses pontos são os usuário que dão a elas. Essa noticia só pode ser indexada somente uma vez, todo dia tendo noticias novas na página principal com a relevancia de mais pontos.
+O modelo do hacker news é basicamente assim: um usuário envia uma noticia e essas noticias são indexadas com a quantidade de pontos que ela vai tendo, esses pontos são os usuário que dão a elas. 
+
+Essa noticia só pode ser indexada somente uma vez, todo dia tendo noticias novas na página principal com a relevancia de mais pontos.
 
 ## Tela de início 
 ![](printscreenshot/img1.jpg)
