@@ -1,2 +1,2 @@
-# hacker-news-brasil
+# Redesign do site HackerNews
 Um modelo de redesign do site hacker news
