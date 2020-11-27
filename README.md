@@ -24,5 +24,5 @@ Esta tela só esta concluida o design dela, precisa de colocar as informações 
 ![](printscreenshot/register.png)
 
 ## Tela dashboard 
-É aqui que tudo acontece, onde o usuário usa para enviar sua sujestão de link
+É aqui que tudo acontece, onde o usuário usa para enviar sua sugestão de link
 ![](printscreenshot/dashboard.png)
